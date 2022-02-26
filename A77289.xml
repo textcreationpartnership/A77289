@@ -1,0 +1,347 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The authority of God over men, in the law cleared, shewing that its no persecution for the magistrate as Jehovah's deputy, in Jehovah's name, to enforce it on the people, but that he is bound to do the same. Written by an unworthy witness to the law and government of God, John Brayne.</title>
+            <author>Brayne, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77289</idno>
+            <idno type="STC">Wing B4318</idno>
+            <idno type="STC">Thomason E725_17</idno>
+            <idno type="STC">ESTC R206773</idno>
+            <idno type="EEBO-CITATION">99865879</idno>
+            <idno type="PROQUEST">99865879</idno>
+            <idno type="VID">118131</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77289)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118131)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 112:E725[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The authority of God over men, in the law cleared, shewing that its no persecution for the magistrate as Jehovah's deputy, in Jehovah's name, to enforce it on the people, but that he is bound to do the same. Written by an unworthy witness to the law and government of God, John Brayne.</title>
+                  <author>Brayne, John.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rich. Moone, and are to be sold at the seven stars in Pauls Church-yard, neer the great north door,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653. [i.e. 1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan. 4.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law (Theology) --  Early works to 1800.</term>
+               <term>Authority --  Early works to 1800.</term>
+               <term>God --  Kingship --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118131:1" rendition="simple:additions"/>
+            <p>THE Authority of GOD over MEN, In the LAW, CLEARED, Shewing that its no perſecution for the Magiſtrate as JEHOVAH'S Deputy, in JEHOVAH'S Name, to enforce it on the people, but that he is bound to do the ſame.</p>
+            <p>Written by an unworthy witneſs to the Law and go<g ref="char:EOLhyphen"/>vernment of God, JOHN BRAYNE.</p>
+            <p>LONDON, Printed for <hi>Rich. Moone,</hi> and are to be ſold at the ſeven ſtars in <hi>Pauls</hi> Church-yard, neer the great north door, 1653.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118131:2"/>
+            <head>To the Supreme Authority of the Nation, The Parliament of the Commonwealth of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He fear of God and love of your ſouls, makes me ſet before you the words of <hi>Moſes,</hi> Deut. 27.27. <hi>Curſed be he confir<g ref="char:EOLhyphen"/>meth not all the words of this Law to do them, and all the people ſhall ſay Amen;</hi> which ſignifies, that God will ſtir up the people againſt men, for not confirming the Law, all the Law; and that there is a curſe follows the not confirming of it. I have out of deſire of your ſatis<g ref="char:EOLhyphen"/>faction and encouragement, anſwered ſome objections which may beget high thoughts, exalting themſelves againſt God: the Lord I hope will remove the hinder<g ref="char:EOLhyphen"/>ances
+<pb facs="tcp:118131:3"/>
+cauſe delay in his work, and make the way plain before yee, and deliver you from reaſoning with fleſh and blood about prudential honors, profit and pleaſure of the world; and the Lord anſwer all your Queſtions according to his counſel upon your Conſciences. And firſt, the Lord ſeaſon your thoughts with that of God when the people would be under humane Authority, as the Gentiles, 1 <hi>Sam.</hi> 8.7. <hi>they have not rejected thee, but me,</hi> ſignifying, that if men would ſet up Gods Law by humane Authority, they yet reject God from reigning over them: the divine Law adminiſtred by humane Authority ſince the types of Chriſt (as the Kings of <hi>Iu<g ref="char:EOLhyphen"/>dah</hi> were) are paſt, and he come, is abomination, and worſe then <hi>Deut.</hi> 22.9. ſowing the field with divers ſeeds, <hi>ver.</hi> 10. or plowing with an Oxe and an Aſs, <hi>ver.</hi> 11. or wearing a garment of linnen and woolen. O conſider, Magiſtracy ruling under God, is higher and more honorable then that that is of it ſelf with<g ref="char:EOLhyphen"/>out God. But let us ſee what are the hinderances that God ſhould not reign over us.</p>
+            <closer>
+               <dateline>From the <hi>Soak</hi> neer <hi>Winton,</hi>
+                  <date>
+                     <hi>October</hi> 1653.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118131:3"/>
+            <head>The Authority of GOD over MEN, in the LAW, cleered.</head>
+            <div n="1" type="question">
+               <head>
+                  <hi>Queſtion</hi> I.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He firſt Queſtion is, whether the now Magiſtrate may en<g ref="char:EOLhyphen"/>joyn the people under his power to Covenant with God in the Law as the Jews did?</p>
+               <p>To the anſwering whereof, I ſhall premiſe theſe Que<g ref="char:EOLhyphen"/>ries, it's not whether men may, but</p>
+               <p n="1">1 Its whether God may not inforce a people to Cove<g ref="char:EOLhyphen"/>nant with him, and whether ſince the fall, all people, be<g ref="char:EOLhyphen"/>fore they can be a people to God, are not to ſubmit to his enforcement.</p>
+               <p n="2">2 Whether God in giving the Law, hath not made uſe of this enforce<g ref="char:EOLhyphen"/>ment as well on the Gentiles as the Jews, <hi>Rom.</hi> 3.29. &amp; 7.1. <hi>Paul</hi> writes to the <hi>Romans</hi> Gentiles, ſhewing, that the Law had dominion over them, whiles they lived, as a husband over a wife, and the Reaſon (becauſe they knew the Law) the knowledge of it actually enjoyns obedience to it, in Gentiles as well as Jews, <hi>Gal.</hi> 3.13. who are Gentiles are ſaid to be under the rule of the Law, <hi>v.</hi> 23. he ſaith, They were kept under the Law until Faith came, <hi>v.</hi> 24. and was their ſchool maſter to bring them to Chriſt, <hi>Eph.</hi> 2.12. the evil eſtate of the Gentiles was ſet out in this, not onely that they were without Chriſt, but that (as we this day) they were Aliens from the Commonweal of <hi>Iſrael</hi> (that is, the government of God in the Law judicial.) And ſtrangers from the Covenants; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, not the Covenant, as of the Goſpel-Covenant onely, but Covenants of Law and Goſpel, <hi>Gal.</hi> 4.24. <hi>Abrams</hi> two ſons are the two Covenants, the one <hi>Iſmael</hi> by <hi>Hagar,</hi> which is <hi>Sinai</hi> in <hi>Arabia,</hi> the Law-Covenant; the other the Goſpel-Covenant, which is <hi>Iſaac</hi> by the free woman <hi>Sarah,</hi> which is <hi>Jeruſalem</hi> from above. Now theſe Covenants are the Covenants of promiſe, the promiſes of the Law being onely made to the people under the Law-Covenant, and thoſe of the Goſpel to the peo<g ref="char:EOLhyphen"/>ple under the Goſpel-Covenant; becauſe by the Covenants, they are Gods, and God is ſo theirs, as the tenor of the Covenant reveals him. Laſtly,
+<pb n="2" facs="tcp:118131:4"/>
+hence as we are without the Covenant this day, ſo we are without God in the world, that is, in the world eſtate; and as without God therein, ſo with<g ref="char:EOLhyphen"/>out hope, which is no leſs true in Engliſh mens eſtate now, then in the <hi>Ephe<g ref="char:EOLhyphen"/>ſians,</hi> when they were Gentiles, <hi>&amp;c.</hi> Again, writing to <hi>Timothy,</hi> whoſe fa<g ref="char:EOLhyphen"/>ther was a Greek, 1 <hi>Tim.</hi> 1.9. the Law was made for men without Law, <hi>viz.</hi> the Heathens as well as Jews, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, for diſobedient, Command 5. for the ungodly, Command 1. for the unholy and prophane, Command 3. for murderers and manſlayers, Command 6. for whoremongers, and them that defile themſelves with mankinde, Command 7. for men-ſtealers, Command 8. for perjured perſons, Command 3. for Lyars, Command 9. Now that he ſpeaks of the Law and its rule, is cleer, in that he applies himſelf to the making of the Law, which was for judgement and rule of the Jewiſh Nati<g ref="char:EOLhyphen"/>on, and in them of all that know and own the Law for Gods. Again, he goeth but to the ninth Command, as being onely puniſhable by the Judge, the tenth being reſerved to God to judge the tranſgreſſions thereof at laſt.</p>
+               <p>That that is remarkable in this Text, is this,</p>
+               <p n="1">1 That he ſaith indefinitely it was made for ſuch, even for ſuch Gentile ſinners as well as Jews, and no more for the one then for the other, for God is no reſpecter of perſons.</p>
+               <p n="2">2 Such offences are committed among us, and ſuch offenders are abiding with us, and the Law was made for them, not onely to ſhew them their ſin, and let them al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne in it, but to puniſh them for it, and judge them by it.</p>
+               <p n="3">3 By the Law, cleerly the Apoſtle underſtands not the ten commands onely, but the whole judicial Law, its Statutes and judgements.</p>
+            </div>
+            <div n="2" type="question">
+               <p>
+                  <hi>Queſt.</hi> 2. Whether God having thus laid the Law on all that know it, it be not the duty of the Magiſtrate, who is Gods vicegerent, to ſee the peo<g ref="char:EOLhyphen"/>ple under his power to ſubmit to the ſame? As the Law and Covenant en<g ref="char:EOLhyphen"/>joyn.</p>
+               <p n="1">1 Not doing it as an act of his own, but as Gods Miniſter, <hi>Rom</hi> 13.4.</p>
+               <p n="2">2 Not ſubjecting the people to himſelf, but Gods obedience, <hi>Judges</hi> 8.22, 23.</p>
+               <p n="3">3 Not reſpecting his own will, but Gods command, <hi>Rom.</hi> 13.5. if ever, now men ought to be ſubject to ſuch a Magiſtrate for Conſcience, and he that will not in ſuch a work, let him ſuffer the execution of Gods wrath, he bears not the ſword in vain, to ſuffer men to ſtand out in ſin againſt God and his Law.</p>
+               <p n="4">4 Shall any plead Conſcience whether they will ſubmit to the Law of God in the outward man, as to a rule of life, or whether they will be Gods people, or whether they will own the true God under ſo much knowledge of God and his Law?</p>
+            </div>
+            <div n="3" type="question">
+               <p>
+                  <hi>Queſt.</hi> 3. Whether when the people have Covenanted with God in the Law, the Magiſtrate be not to put in execution the puniſhments for the brea<g ref="char:EOLhyphen"/>ches made by the people of the Covenant, <hi>Joſhua</hi> 7.15.</p>
+               <p>
+                  <hi>Reſp.</hi> 1. Or elſe he bears the ſword in vain, <hi>Rom.</hi> 13.4. <hi>Deut.</hi> 17.2.</p>
+               <p n="2">2 Or elſe the whole Nation are defiled by the ſin, and ſo the puniſhment becomes univerſal, <hi>Deut.</hi> 13.12, 13, 14, 15, 16.</p>
+               <pb n="3" facs="tcp:118131:4"/>
+               <p n="3">3 The Scriptures require that the ſoul ſins againſt the Law ſhall dye, <hi>Ezek.</hi> 18.4.</p>
+               <p n="4">4 Or the Nation will become abominable, and in ſtead of being a people of God, be a people of Satan, for by puniſhment of ſin according to the Law, ſin was ſaid ſo to be put away from among them, and not elſe, the ſin elſe remaining, <hi>Deut.</hi> 13.5. one man as pitch defiling another.</p>
+               <p n="5">5 In Covenant keeping, was great reward, ſo in Covenant breaking was death, <hi>the wages of ſin is death,</hi> Rom. 6.23. Ezek. 18.29. <hi>Yet ſaith the houſe of Iſrael, The way of the Lord is not equal: O houſe of Iſrael, are not my way e<g ref="char:EOLhyphen"/>qual? are not your ways unequal?</hi> compare Gods with ours, and his ways are equal, ours unequal.</p>
+               <p>There are three grounds, by which the Magiſtrate hath warrant to force the Law of God on a Nation, which are all binding to the now Magiſtracy.</p>
+               <p n="1">1. Is the ground that the creature ſtands bound to God by for his Crea<g ref="char:EOLhyphen"/>tion, as it retains a knowledge of God thereby, ſo that man is without ex<g ref="char:EOLhyphen"/>cuſe by the creation, for making any ſimilitude of God, becauſe in the things are made, the inviſible things of God are ſeen, <hi>Rom.</hi> 1.19, 20, which inexecu<g ref="char:EOLhyphen"/>ſableneſs is before God onely.</p>
+               <p n="2">2 The Law being added, ſin abounded, <hi>Rom.</hi> 5.20. <hi>Gal.</hi> 3.19. the Law was added becauſe of tranſgreſſion, ſo that after the receiving and owning of the Law, ſin abounds not in quantity, but in quality alſo: a man dyes more juſtly for ſinning againſt Law, then without Law, for offending Gods then mans Laws, for breaking the Law after the Covenant then before, as <hi>Paul</hi> ſays, <hi>Rom.</hi> 7.7. <hi>I had not known ſin, but by the Law,</hi> and 1 <hi>Cor.</hi> 15.56. <hi>the power of ſin is the Law,</hi> and <hi>Rom.</hi> 5.13. <hi>where is no Law is no tranſgreſſion</hi> imputed.</p>
+               <p n="3">3 A people deſiring the knowledge of God, and enjoyment of his name, but are denyed by ſuch as rule over them, and after by the outſtretched arm of God, are redeemed from them, are by a ſpecial means called to a ſetting up of Gods Law and government, as a debt to their Redeemer.</p>
+               <p n="1">I. Thus <hi>Exod.</hi> 20.2. <hi>I am the Lord thy God, which brought thee out of the houſe of bondage, out of the Land of Egypt,</hi> &amp;c.</p>
+               <p>Note, the Antichriſtian eſtate is the Land of <hi>Egypt</hi> to us, as <hi>Egypt</hi> was to the <hi>Iſraelites,</hi> Rev. 11.8. and the houſe of bondage in reſpect of the illegal yoaks <hi>William</hi> the baſtard laid on this Nation, which were full of tyranny and oppreſſion, who deſtroyed the fundamental Law of the Nation, and on all differences with the Barons, his poſterity promiſed reſtoration of them, who then knew no better.</p>
+               <p>Now God never delivered this Nation from the houſe of bondage and Land of <hi>Egypt</hi> in this kinde until now; now there is a freedom from others, and a tye to God, that he be made king that hath delivered them. See how <hi>Iſrael</hi> obſervs <hi>Gedeon,</hi> Judges 8.22, 23. <hi>The men of Iſrael ſaid unto Gedeon, Rule thou over us, and thy ſons alſo, for thou haſt delivered us from the hand of Midian. And Gedeon ſaid unto them, I will not rule over you, nor ſhall my ſons rule over you, the Lord ſhall rule over you.</hi>
+               </p>
+               <p>It ſhews, that a people are bound to ſet up him to rule over them, that delivered them from their enemies; and I hope the men delivered of this Nation will ſay God delivered them, <hi>Deut.</hi> 29.16, 17.</p>
+               <p>
+                  <pb n="4" facs="tcp:118131:5"/>Yea the late power could not, this power I know will not ſay they deli<g ref="char:EOLhyphen"/>vered the Nation from the bondage on it, ſpiritual or corporal, but that it was God delivered it; what now hinders that God, who ought to reign, is not ſet up in the Land to rule?</p>
+               <p>Yea, I believe the very enemy for our deliverance ſake will ſay as <hi>Nebu<g ref="char:EOLhyphen"/>chadnezzar,</hi> ſeeing his idolatry ſcorned, and the worſhippers of the true God preſerved, as <hi>Dan.</hi> 3.28. and <hi>ver.</hi> 29. <hi>I make a decree, that every people, Nation and language which ſpeak any thing amiſs againſt the God of Shadrach, Meſhach and Abednege, ſhall be cut in pieces, and their houſes ſhall be made a dunghil, be<g ref="char:EOLhyphen"/>cauſe there is no other God that can deliver in this ſort.</hi> So that it appears, Gods deliverance of a people from evil and idolatrous powers, is a ground by which that people ſo delivered are bound to own God his rule and Law, they being therefore freed, that they may honor him and obey him, as in the deliverance of his people <hi>Iſrael,</hi> Luke 1.74, 75. 2 King. 17.35, 36, 37, 38, 39.</p>
+            </div>
+            <div n="4" type="question">
+               <p>
+                  <hi>Queſt.</hi> 4. But what are the enforcements God authorizeth the Magiſtrate with in ſetting up his Law?</p>
+               <p n="1">1 <hi>Exod.</hi> 19.5. <hi>Keep my Covenant, then ſhall ye be a peculiar treaſure to me a<g ref="char:EOLhyphen"/>bove all people, for all the earth is mine:</hi> if not, ſee <hi>Lev.</hi> 26.15, 25. <hi>Deut.</hi> 5.2, 3- mark, the Covenant is no leſs tyed to the keeping of the judgements, <hi>Deut.</hi> 7.12. then to the keeping of the commands, <hi>ver.</hi> 9.</p>
+               <p n="2">2 As in 2 <hi>King.</hi> 11.17. A Covenant is made after general apoſtacy to <hi>Baal,</hi> that the people will be the people of the Lord.</p>
+               <p n="3">3 All the people ſmall and great, have the words of the Covenant read to them, and they ſtand to it, 2 <hi>King.</hi> 23.2, 3.</p>
+               <p n="4">4 2 <hi>Chron.</hi> 15.12, 13, they entred into a Covenant to ſeek the Lord God of their fathers, and who would not ſeek the Lord God of their fathers, whether man or woman, ſmall or great, ſhould be put to death.</p>
+               <p>2 Chron. 34.31, 32. <hi>Joſia made a Covenant before the Lord, to walk after the Lord, to keep his Commands, his teſtimonies and his ſtatutes, and he cauſed all that were in Jeruſalem and Benjamin to ſtand to it.</hi>
+               </p>
+               <p>I beſeech you conſider, if mortal men made Kings, adjudge men to death for denying their ſupremacy, doth not man more juſtly dye for denying Gods? was it Treaſon to declare any other King in a Nation then he that is Legally ſuch? How much more doth he deſerve death, that ſets up another King then God over men, by Idols? Was the counterfeting the Broad-Seal Treaſon, how then to ſwear by the name of the moſt high falſly, or in a way God owns not?</p>
+               <p>
+                  <hi>Object.</hi> O but this was in a civil way onely that Kings were ſo honored.</p>
+               <p>
+                  <hi>Reſ.</hi> 1 God in the Law as King is only acknowledged as ſupreme in the State, as iſſuing forth all power from himſelf to men; in which he, not men, reigns: as of the contrary, not to ſubmit to the rule and authority of God, is as the <hi>Iſraelites</hi> to reject God or Chriſt, and chuſe <hi>Saul</hi> or <hi>Barabbas,</hi> or the Bramble to rule over them.</p>
+               <p n="2">2 The worſhip of God was not contained in the Law judicial, but in the Law ceremonial: the Judicial Law held out his authority, power and rule onely, as a Lord over men; which men deſpiſing, dye more juſtly for, then for oppoſing the authority of all the men on earth.</p>
+               <pb n="5" facs="tcp:118131:5"/>
+               <p n="3">3 This of the Law is an honor due to God from his creating man, and from man as his creature in natures ſtate by created light.</p>
+            </div>
+            <div n="5" type="question">
+               <p>
+                  <hi>Queſt.</hi> 5. Whether the firſt Table belong to the Magiſtrate now or not, or onely the ſecond Table?</p>
+               <p>
+                  <hi>Reſp.</hi> Jam. 2.10. ſays, <hi>He that breaks the Law in one point, is guilty of all,</hi> and <hi>Moſes</hi> ſays, <hi>Curſed be he confirmeth not all the words of this Law to do them,</hi> Jam. 2.7, 11.</p>
+               <p n="2">2 Judgement of things in the ſecond Table is not to be executed with<g ref="char:EOLhyphen"/>out the uſe of Commands of the firſt.</p>
+               <p n="1">1 A man in difficult caſes cannot be ſatisfied, but by an Oath, <hi>Heb.</hi> 6.16. an oath is the end of all ſtrife, <hi>Jer.</hi> 4 2. <hi>Thou ſhalt ſwear the Lord lives in righ<g ref="char:EOLunhyphen"/>teouſneſs;</hi> which ſhews, the oath of God is not to be miniſtred to unrighte<g ref="char:EOLhyphen"/>ous Law, and proceeds again, it muſt be in judgement, which cannot be, if the commands of the firſt Table pertain not to the Magiſtrate.</p>
+               <p n="2">2 As an oath is to be miniſtred in judgement, Command 3. ſo that oath muſt be in the name of God, or the Plaintiff is not to receive his teſtimo<g ref="char:EOLhyphen"/>ny, yea indeed it can be no oath: Command the firſt is hence proved to be of neceſſary uſe in judgement.</p>
+               <p n="3">3 It muſt not be by the name of an idol God, that the Magiſtrate pro<g ref="char:EOLhyphen"/>feſſing Gods word ought not to receive, for God will cut off the name of I<g ref="char:EOLhyphen"/>dols out of the Land. Command ſecond, is concerned alſo in judgement.</p>
+               <p n="4">4 And whereas it ought to be the Magiſtrates care, that the people un<g ref="char:EOLhyphen"/>der him live a godly and ſober life in all righteouſneſs ond honeſty, it proves from 1 <hi>Tim.</hi> 2.2.</p>
+               <p n="1">1 A neceſſity of the ſeventh day Sabbath to be obſerved, the fourth Command.</p>
+               <p n="2">2 And if the Law of <hi>Moſes,</hi> by which the people are to live or be judge<g ref="char:EOLhyphen"/>ed, be read to them every Sabbath day, <hi>Act.</hi> 15.21.</p>
+               <p n="3">3 That the remembrance of the Creation and Reſt, with thanks to the Creator, be continued, that God may ſanctifie them, and as a ſchool-maſter bring men to Chriſt.</p>
+               <p n="4">4 That the ſervant, the Oxe, the Aſs, may reſt and not be deſtroyed with labour and toil, the mercileſs maſter otherwiſe would burthen them withal, yea and deſtroy them: Chriſt tells us, <hi>The Sabbath was made for man, not man for the Sabbath,</hi> Mark 2.27.</p>
+               <p n="5">5 Without this, what profanation, wickedneſſes, and abominations would the people ſuddenly run into, and be before God worſe then heathens, who obſerved days to their idol gods!</p>
+               <p n="6">6 The ſeventh day is the ſigne of the Covenant of God, ſo that if that be neglected, the Covenant is not ſigned, yea God puniſhed the breach of Sabbaths, the neglect of Sabbaths ſeverely, and bleſſed in all abundance the obſervance of them, and annexed many promiſes.</p>
+               <p>If Magiſtrates now have nothing to do to put in execution the Commands of the ſecond Table,</p>
+               <p n="1">1 Then they have nought to do to puniſh Witches, Sorcerers, or other
+<pb n="6" facs="tcp:118131:6"/>
+Covenanters with Satan, becauſe theſe ſin againſt the firſt Command in de<g ref="char:EOLhyphen"/>nying God, and againſt the third, in taking the name of God in vain.</p>
+               <p n="2">2 <hi>Gal.</hi> 5.19, 20. Idolatry and Witchcraft are numbred together as a work of the fleſh, with adultery, fornication, murther.</p>
+               <p>
+                  <hi>Object.</hi> Ver. 20. Hereſie is expreſt, and that pertains not to the civil Ma<g ref="char:EOLhyphen"/>giſtrate to puniſh.</p>
+               <p>
+                  <hi>Reſp.</hi> This Hereſie as here a work of the fleſh, is limited to a denyal of God, or the rule and the authority of God, indeed, a dividing himſelf from God and his Law, under which the natural man ought to be, the Apoſtle in this Epiſtle treating mainly of the Law and the ſtate of man as under the ſame, or as it ought to be under the ſame, for thoſe under the curſe ought to be under the rule of the Law, though the time and opportunity is denyed them, and this kinde of hereſie concerns the Magiſtrate, as the puniſhment of witchcraft or murther doth, and diſtinct from the hereſies 2 <hi>Pet.</hi> 2.1. ſpeaks of calling them damnable hereſies, that is, denying Chriſt that bought them, which is brought into the Church, and come not under the Magiſtrates cognizance to puniſh with the ſword.</p>
+               <p>And thus you ſee how the four Commands of the firſt Table concern the Magiſtrate, as much as the ſix laſt of the ſecond Table, yea ſo as he that con<g ref="char:EOLhyphen"/>firmeth not all the words of the Law to do them is accurſed, and he that breaks one is guilty of all, for the authority of the Law is in the firſt Com<g ref="char:EOLhyphen"/>mand acknowledged or made void in the owning or the denyal of it, as containing the Kingſhip and the ſupremacy of God as Lawgiver, this be<g ref="char:EOLhyphen"/>gets obedience.</p>
+               <p>The power of the Law is from the name of God contained in the third Command, this begets fear.</p>
+               <p>The ſanctification of the people by the Law, is from the obſervation of the fourt Command, this begets holineſs.</p>
+               <p>The ſecond Command is for the preſervation of the power and the autho<g ref="char:EOLhyphen"/>rity of the Law, and for preventing unholineſs, a not glorifying God as God.</p>
+               <p>So that the ſecond Table disjoyned from the firſt, in the hand of man, is mans ſetting up of himſelf, and caſting down the authority and power of God, and is the greateſt of all abominations, and the greateſt of all other violence done to God, O let not humane power and authority ever come to rule by the divine Law of God, this is indeed to ſet themſelves in the Throne of God, will not God hold him guiltleſs takes his name in vain, and ſhall he be guiltleſs takes his throne, his honor, his name, his law and glory from him?</p>
+               <p>It is no leſs dangerous to rule by our authority, then not to rule by Gods law: Gods law is not to be adminiſtred but in his name, and by that autho<g ref="char:EOLhyphen"/>rity is of God, without deſperate and high rebellion.</p>
+               <p>God is to be in the law and judgement, as Kings were in their law and judgement: ſhall men have that over you which you think too great to give to God? How little is God beholding to you who will not admit him his ſoveraignty in his own law over his creatures!</p>
+               <p>
+                  <hi>Object.</hi> But is not an inforcing a Covenant with God, and a putting
+<pb n="7" facs="tcp:118131:6"/>
+men to death for idolatry, perſecution, and an oppreſſing the Conſciences of men?</p>
+               <p>
+                  <hi>Reſp.</hi> 1 The enforcement is not of man but God, man is but Gods mini<g ref="char:EOLhyphen"/>ſter therein, as in the other parts of his miniſtery.</p>
+               <p n="2">2 Conſcience is inexcuſable before God from the things made, proving the inviſibility of God againſt Idols and idolatry, as <hi>Rom.</hi> 1.19, 20.</p>
+               <p n="3">3 The Law hath a light more ſtrongly convincing Conſcience then the natural light, by which it is bound to the living God from idols, by which man is inexcuſable before men, and ſo he that hath the law, and yet wor<g ref="char:EOLhyphen"/>ſhips idols, juſtly is judged to dye thereby.</p>
+               <p>Note it is not mental idolatry, but manual or open, ſuch as by two witneſſes is proved before the Judge, is here meant.</p>
+               <p n="4">4 Conſcience is under the light of the law, ſo that a man cannot plead Conſcience to do any thing againſt the law, as to ſteal, commit adultery, lye, murder, diſobey his parents in lawful things, then much leſs may a man plead Conſcience to be an idolater, a blaſphemer, or to depart from the true God.</p>
+               <p n="5">5 Perſecution is from Tyrants afflicting men for doing juſt and holy things before God, and not from the Miniſter of God, doing juſtice on men actually and openly offending againſt the divine Law of God, as evil doers, not as Chriſtians.</p>
+               <p n="6">6 Conſcience is not to be forced to believe Doctrines of Faith, but to be informed, when yet a man is to be compelled in his life to live righteouſ<g ref="char:EOLhyphen"/>ly, ſoberly, godlily.</p>
+               <p n="7">7 Conſcience is not prejudiced in its liberty, when the man is puniſhed for idolatry, Conſcience having no liberty from God to worſhip idols. Con<g ref="char:EOLhyphen"/>ſcience agreeing with the Law againſt the idolater; onely man when he knows God, and glorifies him not as God, becomes vain in his imaginations, and is given up to act againſt Conſcience to his own condemnation.</p>
+               <p n="8">8 Conſcience, when from ſome unknownneſs of the minde of God in ſome duty doubts, is not to be forced, becauſe its knowledge of the thing is not accompanied with Faith, and ſo what is not of faith is ſin: but Conſciences knowledge of God is cleerer then to think that God is a ſtone, or that the Sun is God, or the like, or elſe there is no knowledge of God in that man, either as he is revealed in the Law or Goſpel, or any anſwerable light to Law or Goſpel, yea or nature it ſelf abiding in him: without ſome anſwer<g ref="char:EOLhyphen"/>ableneſs to one of which lights in man, it cannot be termed Conſcience in man, that withholds him from ſubmitting to things enjoyned by a power.</p>
+               <p>Now its that anſwerableneſs of light in man to the Goſpel, is not to be for<g ref="char:EOLhyphen"/>ced, and comes in the compaſs of perſecution, the civil Magiſtrate not being truſted therewith; and not that anſwerableneſs of light in man to the Law, which is agreeable to the natural light, and concerns the natural man; and the natural life of men in their manners, and ſo the Magiſtrate to be truſted with it. Its not Conſcience in a man that deſires liberty to be unjuſt, un<g ref="char:EOLhyphen"/>honeſt, <hi>&amp;c.</hi> but unconſcionableneſs and a lack of Conſcience.</p>
+               <p>As for that Queſton, Whether the firſt Table be to be enjoyned by the
+<pb n="8" facs="tcp:118131:7"/>
+now Magiſtrate, O that it might be conſidered, whether that ſhall be a Law to us concerns our neighbours, and not that concerns our God? Shall the Law be law, and the authority of God evacuated? As Chriſt, <hi>Matt.</hi> 23.19. <hi>Ye hypocrites, which is greater the Altar or the gift?</hi> ſo, which is greater, God or the Law? O is there not ſuch an oneneſs in the law, that the deſtruction of one is the deſtruction of all?</p>
+               <p n="1">1 Shall a childe dye for diſobeying his parents by the fifth Command, and ſhall it not be death to them that will not take God for their God by the firſt command?</p>
+               <p n="2">2 Is it death for a man carnally to defile himſelf with his neighbours wife, by the ſeventh Command, and ſhall ſpiritual defiling a mans ſelf with who<g ref="char:EOLhyphen"/>riſh idols by the ſecond Command be much more death?</p>
+               <p n="3">3 Shall ſtealing a child from his father be death by the eighth Com<g ref="char:EOLhyphen"/>mand, and ſhall not ſtealing men from God by perſwading to idolatry, be death by the ſecond Command? <hi>Deut.</hi> 13.6, 7, 8, 9, 10.</p>
+               <p n="4">4 Shall a childs curſing his father or mother be death by the fifth Com<g ref="char:EOLhyphen"/>mand, and ſhall not curſing and blaſpheming of God be death by the third Command, and denying his authority?</p>
+               <p n="5">5 Shall heathens from the light of nature execute death for the like of<g ref="char:EOLhyphen"/>fences on men in revenge of wrong done to their idols, and ſhall we plead a liberty to thoſe done againſt the onely true God by his enemies?</p>
+               <p n="6">6 Chriſt, <hi>Matt.</hi> 22.38. ſaid, <hi>This is the firſt and the great Command,</hi> and the ſecond is like to this.</p>
+               <p>Is it the great Command concerned God, and is there no puniſhment for offences againſt it, but for offences againſt the ſecond, that concerns men onely?</p>
+               <p>That in the tenth Command, <hi>Thou ſhalt not covet,</hi> is by the Apoſtle cleer<g ref="char:EOLhyphen"/>ly reduced to the ſecond Command, <hi>Eph.</hi> 5.5. or covetous perſon which is an idolater.</p>
+               <p n="7">7 The ſecond is ſaid to be like the firſt, <hi>Matt.</hi> 22.39. what is forbid in the ſecond, is forbid in the firſt as againſt God, as in the other, as againſt man; the firſt was a pattern to the ſecond, and love is the fulfilling of both the Tables.</p>
+               <p n="8">8 Is not the Conſcience enforced, when enjoyned obedience to the Law, and Statutes, and Judgements of God in the ſecond Table? and can it be ſaid to be enforced, when enjoyned obedience to the law, <hi>&amp;c.</hi> concerns the firſt Table? In a word, the Scriptures ſay that man is ſhut up under the law until Faith come: if man, the whole man, then Conſcience in man is ſhut up to it, and hath no freedom from it, nor way to take himſelf from ſubmitting to it, <hi>Gal.</hi> 3.22, 23. Chriſt himſelf was made under the Law, and how then are all others in their very creation? <hi>Gal.</hi> 4.4.</p>
+               <p n="9">9 It will not be amiſs to ſhew the dependency of the Commandments.</p>
+               <list>
+                  <item>1 The firſt Command contains the Covenant it ſelf, as it concerns God in his being to man, who is alone to be honored.</item>
+                  <item>2 Command concerns God on our part, that we glorifie God as God,
+<pb n="9" facs="tcp:118131:7"/>
+and not repreſent in him idols, and worſhip him in creatures.</item>
+                  <item>3 Command ſhews God is to be ſanctified of Covenanters in his name or authority, that might not be impayred.</item>
+                  <item>4 Command hath in it a ſigne of the Covenant, and is for ſanctification of the Covenanters.</item>
+                  <item>5 Command, God ſets up deputies to ſee the Covenant kept, God au<g ref="char:EOLhyphen"/>thorizing them with authority thereunto, as under him.</item>
+                  <item>6 Command contains a preſervation of the Covenanters in their being, the Covenant binding one man to preſerve another.</item>
+                  <item>7 Forbids defilement of themſelves and neighbours wives, that they may have a holy ſeed that are in covenant with God. Hence a baſtard ſeed was not to inherit.</item>
+                  <item>8 A preſervation of men in Covenant in their eſtates, tying men one to be juſt to another.</item>
+                  <item>9 A preſervation of them in their names, tying men to be true in Cove<g ref="char:EOLhyphen"/>nant one to another.</item>
+                  <item>10 To keep our Conſciences free from coveting any thing is anothers.</item>
+               </list>
+               <p n="1">1 Kings in their authority, ſoveraignty, and laws of Treaſon, had that God ſhould have, as in <hi>Saul,</hi> who ruled by Gods authority, and God rejected, and his Law exerciſed by humane authority.</p>
+               <p n="2">2 When God again is made King, he hath no more in the four Commands then Kings had among us by their humane laws over the people.</p>
+               <p n="3">3 The four Commands contain a kingly authority for bodily rule, the worſhip of God being miniſtred in the Tabernacle, not the gate; by a Prieſt, not the Judge, yet we think it hard to grant God what we give to men.</p>
+               <p>In the firſt Command the perſon of the King is ſpecifically enjoyned to be owned alone; men alſo would not in their kingdoms admit corrivals, as in <hi>Caeſar</hi> and <hi>Pompey:</hi> to proclaim another then the lawful King, is Trea<g ref="char:EOLhyphen"/>ſon by humane authority againſt the King, ſo in that kingdom is Gods, by divine authority it is Treaſon againſt God.</p>
+               <p>The ſecond Command anſwers to counterfeiting the King in his coyn, his ſeal, his authority, his hand; all which by humane Law is Treaſon.</p>
+               <p>The third Command anſwers to the Kings name, all Acts and Edicts are publiſhed in his name, Writs executed in his name, and men (as by the true God) did corruptly uſe to ſwear by their kings lives, as <hi>Joſeph</hi> by the life of <hi>Pharoah.</hi>
+               </p>
+               <p>And was to confirm the kingly authority of God: now authority was ſo maintaind by men, in their humane way to themſelves, that it was death for any to deny the Kings authority; how then to deny Gods ſoveraignty?</p>
+               <p>The fourth command anſwers to the Kings Courts, when as in old times in this very Nation, they had ſet days, in which the Laws of the Land were publikely read to the people: ſo on the Sabbath day <hi>Moſes</hi> is read to the people, which is better, to which ſhould be attendance, as Tenants at their Lords Court days.</p>
+               <p>
+                  <hi>Applic.</hi> 1 If the ſecond Table be adminiſtred by humane authority, it is not adminiſtred as Gods Law, but mans.</p>
+               <pb n="10" facs="tcp:118131:8"/>
+               <p n="2">2 Men ſet themſelves in the place of God, and will not have God reign over them until he deſtroy them, <hi>Pſal.</hi> 2.</p>
+               <p n="3">3 Whiles men ſcruple whether God ſhould reign from his ſeeming ſeve<g ref="char:EOLhyphen"/>rity, that he might exalt the divine glory to man in wayes of Tyranny, makes himſelf great as <hi>Herod;</hi> ſpeaking as with the voice of God and not of man, <hi>Act.</hi> 12.22.</p>
+               <p n="4">4 Doth God require more in his rule of men, then men in theirs? or would men give leſs, or ſhall he take leſs to be a King among the people which deſire to be a Kingdome to God, then they gave their King before?</p>
+               <p n="5">5 Tell me how a Kingdome can be Gods, and he not the King: or how he can be a King without his law and authority: or however God can have a viſible authority among men, as a King in a kingdome, and the four com<g ref="char:EOLhyphen"/>mands of the firſt Table in any part of them laid aſide or abridged.</p>
+               <p n="6">6. As Law is nothing without Authority, yea no Law; ſo the ſecond Ta<g ref="char:EOLhyphen"/>ble is nothing without the firſt, for the inward or outward man.</p>
+               <p n="7">7 The covenanting of People with God in his Law, anſwers to our Na<g ref="char:EOLhyphen"/>tions receiving their King upon the Oath miniſtred to him at his Corona<g ref="char:EOLhyphen"/>tion, to rule juſtly by the Law of the Land, and to maintain our juſt rights.</p>
+            </div>
+            <div type="part">
+               <head>I make bold humbly to offer theſe Queries.</head>
+               <p n="1">1. Whether it be not the minde of God, that in the fall of Kings, and that humane authority, that the humane Law ſhall fall with it.</p>
+               <p n="2">2 Whether God hath not made himſelf way thereby to ſet up himſelf, authority, and law in the place thereof.</p>
+               <p n="3">3 Whether or no the people that ſtand in the way and hinder Gods com<g ref="char:EOLhyphen"/>ing to the Throne, muſt not look to be removed and caſt down.</p>
+               <p n="4">4 Whether there be any fitter or better then God to ſet up, or better au<g ref="char:EOLhyphen"/>thority and more lawful then Gods? Or a more juſt Law to be ruled by then his? if not, why is not he exalted? if God be God, follow him.</p>
+               <p n="5">5 If the people ſhould be ſo blinde as to ſay, as <hi>Iſrael</hi> to <hi>Gedeon, Come thou and thy ſons reign over us,</hi> ſay as he, <hi>I will not reign over you, nor ſhall my ſons, God ſhall reign over you, he is King. Pilate</hi> would not be entreated to write otherwiſe.</p>
+               <p n="6">6 <hi>Rev.</hi> 6.2. the Crown and kingdom in a war ſhall be given Chriſt, O that the now Magiſtrates of this Nation had the honor to give it him! he then ſhould make this Nation the head of the greateſt and moſt glorious Monarchy ever was, exceeding the golden head or ſtate of the Babylonian, for plenty, as that of iron for richneſs and glory, <hi>Rev.</hi> 21.24.</p>
+               <p n="7">7 Whether all the men that refuſe or lay aſide the firſt Command, reject not God in himſelf as King; and in the third God, in his authourity; and in the fourth, God in his Court, and in the fifth, God in his deputy; and in the reſt, with the Statutes and Judgements, God in his Law and government, and ſo entail that ſentence on them is written, <hi>Luke</hi> 19.27. as enemies of Chriſt to be deſtroyed before him, or as <hi>Pſal.</hi> 2.3. for breaking the bands of God, his Law, come to be broke in pieces like a potters veſſel with a rod of iron; <hi>be wiſe now therefore, O ye Kings, be inſtructed ye that are Judges of the
+<pb n="11" facs="tcp:118131:8"/>
+earth, kiſs the ſon;</hi> make him your King, and do him homage, as to your one<g ref="char:EOLhyphen"/>ly Lord and Soveraign, for God in deſpite of all oppoſition will ſet him on Sion hill, a ſoveraign and king to the people.</p>
+               <p n="8">8 And whereas under Monarchy, indictments run againſt men for that againſt the peace of the King, his Royal Crown and Dignity, they had fe<g ref="char:EOLhyphen"/>loniouſly done ſo and ſo, men are now to be indicted thus,</p>
+               <p>
+                  <hi>Thou</hi> B C. <hi>art charged with breaking the Covenant of God, by tranſgreſſing againſt his Soveraignty, in that thou art a worſhipper of Idols, or of falſe Gods.</hi>
+               </p>
+               <p>Or againſt his Name or Authority, in blaſpheming him, which was judg<g ref="char:EOLhyphen"/>ed with faſting, 1 <hi>King.</hi> 21.12, 13. and ſo of the reſt.</p>
+               <p>Or thus:</p>
+               <p>
+                  <hi>Thou</hi> A. B. <hi>art charged with breaking the Covenant of thy God, by tranſ<g ref="char:EOLhyphen"/>greſſing his Law, in the unjuſt or violent taking away the goods or cattel of thy brother</hi> D. E.</p>
+               <p>Blaſphemy in the third Command, what it is, is a curious Queſtion, which concerns God in his Rule and Authority, when men roſe up againſt it, and ſpake evil of it, vilifying and reproaching it, as is apparent, 1 <hi>King.</hi> 21.12, 13. <hi>Naboth</hi> is accuſed for blaſpheming God and the King, in which, not onely God, but the King his Deputy, was pretended in the ſame blaſphemy to be blaſphemed, or to be evil ſpoken of: to which that may allude, <hi>He that deſpiſed Moſes Law dyed without mercy,</hi> that is, he that ſpeaks evil of <hi>Moſes</hi> rule, dyed without mercy. And ſo <hi>David,</hi> Pſa. 69.9. <hi>the reproaches of them that reproached me, fell on thee;</hi> God the onely King, was reproached in the reproach of <hi>David</hi> his Deputy.</p>
+               <p>To the Synedry or the Councel of ſeventy, to the Judges and Elders, were Scribes appertaining, who were to be intruſted with Evidences and Covenants, or contracts of men. Concerning which, note, that one of <hi>Ba<g ref="char:EOLhyphen"/>ruchs</hi> in <hi>Jeremiah,</hi> is a form for all other Contracts of the like kinde: as un<g ref="char:EOLhyphen"/>der one Command all ſins of that kinde are forbid, ſo under one form all Contracts of that kinde are enjoyned, unleſs the word hold out a particu<g ref="char:EOLhyphen"/>lar exception, which is a general rule for caſes, in like kinde.</p>
+               <p>Theſe Scribes were by a publike Officer, on complaints, to iſſue out Sum<g ref="char:EOLhyphen"/>mons to bring in offenders before the Judge, which without Arreſting, on warning given ſufficed, for he that deſpiſed <hi>Moſes</hi> Law, dyed without mer<g ref="char:EOLhyphen"/>cy, by which, a thief might loſe his life, if he according to the Law would not labour for the man whoſe goods he ſtole, untill he had ſatisfyed him ac<g ref="char:EOLhyphen"/>cording to the Law, <hi>&amp;c.</hi> Numb. 10.12. <hi>Moſes</hi> ſent to call <hi>Dathan.</hi>
+               </p>
+               <p>The form of the Summons take to be this, <hi>Numb.</hi> 16.16. <hi>Moſes</hi> ſaid to <hi>Corah, Be thou and all thy company before the Lord, thou and they and Aaron to morrow.</hi>
+               </p>
+               <list>
+                  <item>1 The place, before the Lord, that is the ſame with the place of Judge<g ref="char:EOLhyphen"/>ment.</item>
+                  <pb n="12" facs="tcp:118131:9"/>
+                  <item>2 The time, To morrow, judgement not to be delayed.</item>
+                  <item>3 Be thou and thy company, partakers in the act, Complainants and Witneſſes.</item>
+                  <item>4 And <hi>Aaron,</hi> who was complained againſt.</item>
+               </list>
+               <p>To theſe God inſtituted for rule in the Commonweale dividers, who al<g ref="char:EOLhyphen"/>lotting for payment of debts, divide the eſtate of men dying amongſt the children or right inheriters according to the Law, who alſo are choſen of the people, and their acts to be ſubmitted to, if juſt, as legal, and their authority not to be oppoſed or deſpiſed. The rule of dividing them, I have ſet down in my book of the New Earth.</p>
+               <p>Now in that I think this, with what I have formerly written of this ſub<g ref="char:EOLhyphen"/>ject, is ſufficient to anſwer the Queſtions propounded, I forbear to enlarge my ſelf herein, and look to God to appear hereby for his own name and glory, to the now Magiſtrate of the Nation, to win and work their wills to the obedience of their God, that he may be good to the Nation, accor<g ref="char:EOLhyphen"/>ding to his truth and glory: to whom be obedience of every ſoul that hopes in him for ſalvation, now and ever, <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
